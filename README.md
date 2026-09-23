@@ -1,38 +1,19 @@
-# Hi, I'm Nabil HANNACHI 👋
+# Hi, I'm Nabil Hannachi 👋
 
 ### Senior Full-Stack Software Engineer | Web, Mobile & AI
 
-Senior Software Engineer with **14+ years of experience** building enterprise systems, scalable web applications, cross-platform mobile apps, and AI-powered products.
+Senior Software Engineer with **14+ years of experience** building enterprise systems, scalable web applications, cross-platform mobile applications, and AI-powered products.
 
-I focus on **software architecture, backend systems, full-stack development, mobile engineering, and AI applications**.
+I specialize in **software architecture, full-stack development, backend systems, mobile engineering, distributed systems, and AI applications**.
 
----
+### 🧰 Core Technologies
 
-### 🧰 Core Stack
-
-**Frontend:** React · Next.js · TypeScript
-
-**Backend:** Node.js · NestJS · Python · Laravel · C#/.NET
+**Web:** React · Next.js · TypeScript · Node.js · NestJS
 
 **Mobile:** Flutter · React Native
 
-**Data:** PostgreSQL · MySQL · Redis
+**Backend & Data:** Python · Laravel · C#/.NET · PostgreSQL · MySQL · Redis
 
-**Infrastructure:** Docker · Linux · Nginx · Git · CI/CD
+**Infrastructure & AI:** Docker · Linux · Nginx · CI/CD · LLMs · RAG · Semantic Search
 
-**AI:** LLMs · RAG · Semantic Search · Embeddings
-
----
-
-### 🏗️ Engineering Focus
-
-Enterprise Systems · SaaS · Distributed Systems · REST APIs ·
-Offline-First Architecture · Database Design · AI Engineering
-
----
-
-### 🤝 Connect
-
-[🌐 Portfolio](https://www.napacodes.com) ·
-[💼 LinkedIn](https://www.linkedin.com/) ·
-[🐙 GitHub](https://github.com/napacodes)
+🌐 [Portfolio](https://www.napacodes.com) · 💼 [LinkedIn](https://www.linkedin.com/) · 📧 [Contact Me](mailto:YOUR_EMAIL)
